@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(192, 41, 41);
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex ;
+}
+
+.button {
+    background-color: #39df4f;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid rgb(245, 245, 245);
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    display: flex ;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(13, 42, 206);
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex ;
+}
+
+article {
+    background-color: rgb(191, 194, 27);
+    padding: 3px;
+    width: 400px;
+    margin: 3px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(202, 32, 117);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: rgb(178, 33, 223);
+    padding: ;
+    display: flex ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
